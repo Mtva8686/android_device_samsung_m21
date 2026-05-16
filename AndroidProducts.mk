@@ -15,3 +15,6 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/evox_m21.mk
+
+COMMON_LUNCH_CHOICES := \
+    evox_m21-userdebug
